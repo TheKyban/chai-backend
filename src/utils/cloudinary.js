@@ -41,4 +41,5 @@ const deleteFile = async (url) => {
         console.log(result);
     });
 };
+
 export { uploadOnCloudinary, deleteFile };
